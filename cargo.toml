@@ -1,0 +1,5 @@
+[package]
+
+name = "portscanner"
+version = "0.0.1"
+authors = [ "Kriegslustig <rust@ls7.ch>" ]
